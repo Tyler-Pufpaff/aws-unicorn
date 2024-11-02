@@ -8,7 +8,7 @@ The app will let you create an account and log in, then request a ride by clicki
 ![Screenshot 2024-11-01 193955](https://github.com/user-attachments/assets/f91496c3-5ec6-41f1-abb1-da2f93f710fd)
 
 ## Cost
-All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  Outside of the Free Tier, there may be small charges associated with building the app (less than $1 USD), but charges will continue to incur if you leave the app running hence the video showcase because I terminated everything after use.
+All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  Outside of the Free Tier, there may be small charges associated with building the app (less than $1 USD), but charges will continue to incur if you leave the app running.
 
 ## The Application Code
 The application code is here in this repository.
